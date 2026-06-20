@@ -1,0 +1,6 @@
+{
+  "name": "5.5.2",
+  "desc": "ci: 修正 workflow 中构建生成的 APK 复制路径",
+  "code": 552,
+  "apk": "mobile-arm64_v8a-v5.5.2.apk"
+}
