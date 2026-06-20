@@ -1,6 +1,6 @@
 {
-  "name": "5.5.2.1",
-  "desc": "chore: 升级版本号至 5.5.2.1",
-  "code": 552001,
-  "apk": "leanback-armeabi_v7a-v5.5.2.1.apk"
+  "name": "5.5.2.2",
+  "desc": "chore: 升级版本至 v5.5.2.2 (552002)",
+  "code": 552002,
+  "apk": "leanback-armeabi_v7a-v5.5.2.2.apk"
 }
