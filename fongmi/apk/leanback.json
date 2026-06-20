@@ -1,6 +1,6 @@
 {
-  "name": "5.5.2",
-  "desc": "ci: 修正 workflow 中构建生成的 APK 复制路径",
-  "code": 552,
-  "apk": "leanback-armeabi_v7a-v5.5.2.apk"
+  "name": "5.5.2.1",
+  "desc": "chore: 升级版本号至 5.5.2.1",
+  "code": 552001,
+  "apk": "leanback-armeabi_v7a-v5.5.2.1.apk"
 }
