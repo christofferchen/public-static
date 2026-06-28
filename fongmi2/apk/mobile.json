@@ -2,5 +2,5 @@
   "name": "5.5.2.10",
   "desc": "• 修复 TV2 构建错误：使用资源目录替代 resValue",
   "code": 552010,
-  "apk": "mobile-arm64_v8a-tv2-v5.5.2.10.apk"
+  "apk": "mobile-arm64_v8a-tv2-v5.5.2.12.apk"
 }
