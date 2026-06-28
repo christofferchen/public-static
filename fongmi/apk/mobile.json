@@ -1,6 +1,6 @@
 {
   "name": "5.5.2.13",
-  "desc": "• feat: 优化播放器对话框UI：透明背景和高对比度文字 • Revert "feat: 将电视端所有弹窗背景色改为半透明(black_40)"",
+  "desc": "• feat: 优化播放器对话框UI：透明背景和高对比度文字",
   "code": 552013,
   "apk": "mobile-arm64_v8a-v5.5.2.13.apk"
 }
