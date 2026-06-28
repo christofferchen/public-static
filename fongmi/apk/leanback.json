@@ -1,6 +1,6 @@
 {
-  "name": "5.5.2.10",
-  "desc": "• 修复 TV2 构建错误：使用资源目录替代 resValue",
-  "code": 552010,
-  "apk": "leanback-armeabi_v7a-v5.5.2.10.apk"
+  "name": "5.5.2.12",
+  "desc": "• 修复自动更新：TV2 使用独立的更新配置文件",
+  "code": 552012,
+  "apk": "leanback-armeabi_v7a-v5.5.2.12.apk"
 }

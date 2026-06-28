@@ -1,0 +1,6 @@
+{
+  "name": "5.5.2.12",
+  "desc": "• 修复自动更新：TV2 使用独立的更新配置文件",
+  "code": 552012,
+  "apk": "leanback-armeabi_v7a-tv2-v5.5.2.12.apk"
+}
