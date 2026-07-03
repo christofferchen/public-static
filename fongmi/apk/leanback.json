@@ -1,6 +1,6 @@
 {
-  "name": "5.5.2.13",
-  "desc": "• feat: 优化播放器对话框UI：透明背景和高对比度文字",
-  "code": 552013,
-  "apk": "leanback-armeabi_v7a-v5.5.2.13.apk"
+  "name": "5.5.2.14",
+  "desc": "• feat: 优化电视端及手机端分类页最远播放跳转与焦点回溯，引入连续2页无已播即停收敛算法，清理无用检测个数设置项 • feat: 增加已播放视频卡片置灰显示及个性设置开关控制 • feat: 自动播放支持手动、自动、自动并全屏三个选项 • 修复本地视频播放卡顿问题 • feat: remove local.properties app/app.jks local.properties • fix: 修复 deploy.yml 中 JSON 生成时未转义特殊字符的问题 ",
+  "code": 552014,
+  "apk": "leanback-armeabi_v7a-v5.5.2.14.apk"
 }
