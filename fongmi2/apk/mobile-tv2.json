@@ -1,6 +1,6 @@
 {
-  "name": "5.5.2.14",
-  "desc": "• feat: 优化电视端及手机端分类页最远播放跳转与焦点回溯，引入连续2页无已播即停收敛算法，清理无用检测个数设置项 • feat: 增加已播放视频卡片置灰显示及个性设置开关控制 • feat: 自动播放支持手动、自动、自动并全屏三个选项 • 修复本地视频播放卡顿问题 • feat: remove local.properties app/app.jks local.properties • fix: 修复 deploy.yml 中 JSON 生成时未转义特殊字符的问题 ",
-  "code": 552014,
-  "apk": "mobile-arm64_v8a-tv2-v5.5.2.14.apk"
+  "name": "5.5.2.15",
+  "desc": "• feat: 将最远检测个数 Slider 的步长由 5 修改为 1 • feat: 重构最远检测个数配置为 Slider 左右滑动模式，范围5-200以5为步长 • feat: 优化详情页自动播放全屏时序并限制电视端遥控切线路自动播放 ",
+  "code": 552015,
+  "apk": "mobile-arm64_v8a-tv2-v5.5.2.15.apk"
 }
