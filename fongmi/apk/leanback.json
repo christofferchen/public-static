@@ -1,6 +1,6 @@
 {
-  "name": "5.5.2.17",
-  "desc": "• fix(mobile): 修复手势缩放中心点偏移及记忆位置失效问题 ",
-  "code": 552017,
-  "apk": "leanback-armeabi_v7a-v5.5.2.17.apk"
+  "name": "5.5.2.18",
+  "desc": "• style(mobile): adapt button text colors to light/dark themes ",
+  "code": 552018,
+  "apk": "leanback-armeabi_v7a-v5.5.2.18.apk"
 }
