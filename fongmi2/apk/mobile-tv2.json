@@ -1,6 +1,6 @@
 {
-  "name": "5.5.2.20",
-  "desc": "• fix: check storage permission status before requesting ",
-  "code": 552020,
-  "apk": "mobile-arm64_v8a-tv2-v5.5.2.20.apk"
+  "name": "5.5.2.21",
+  "desc": "• feat: 优化跳到最远播放功能 ",
+  "code": 552021,
+  "apk": "mobile-arm64_v8a-tv2-v5.5.2.21.apk"
 }
