@@ -1,6 +1,6 @@
 {
-  "name": "5.5.2.18",
-  "desc": "• style(mobile): adapt button text colors to light/dark themes ",
-  "code": 552018,
-  "apk": "mobile-arm64_v8a-tv2-v5.5.2.18.apk"
+  "name": "5.5.2.20",
+  "desc": "• fix: check storage permission status before requesting ",
+  "code": 552020,
+  "apk": "mobile-arm64_v8a-tv2-v5.5.2.20.apk"
 }
